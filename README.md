@@ -28,6 +28,8 @@ How about instead of deleting, you can do the same with copying? How about copy 
 
 Or how about with three keypress you can select block everything between curly brackets? To end of paragraphs? To end of line? To end of sentence? or to start?
 
+*Vim can do all of those. It can be daunting at first, but once you catch the pattern of how vim doing things, suddenly vim is **very-very good and surprisingly simple to implement**.*
+
 **TL;DR: Vim is a text editor which emphasized efficiency, most notably by reducing the usage of mouse.**
 
 If this interests you, read more. Otherwise, well, bye. Thanks for reading!
@@ -134,6 +136,10 @@ choco install neovim
 ```
 
 **NOTE: my support for windows ends here. All config is the same in all os, but how to edit those config or access those resources will need different approach, some config may need to be edited to work in Windows environment. Please google them yourself.**
+
+### Other Distros
+
+Please google the rest yourself for your own distro.
 
 # Configurations
 
